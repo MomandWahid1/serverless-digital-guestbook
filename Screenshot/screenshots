@@ -1,1 +1,12 @@
-
+serverless-digital-guestbook
+├── README.md
+├── architecture-diagram.png
+└── screenshots/
+      ├── api-gateway.png
+      ├── lambda.png
+      ├── dynamodb.png
+      ├── s3.png
+      ├── sqs.png
+      ├── postman.png
+      ├── cloudwatch.png
+      └── sns.png
