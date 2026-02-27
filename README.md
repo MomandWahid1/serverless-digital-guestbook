@@ -36,6 +36,9 @@ The backend processes requests using Lambda and stores data across DynamoDB and 
 - IAM Least Privilege
 - Distributed Logging & Monitoring
 
+## Demo Video
+🎥 https://youtu.be/nQv6X0lZwy8
+
 ## Screenshots
 
 ### API Gateway
