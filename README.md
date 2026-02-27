@@ -61,3 +61,6 @@ The backend processes requests using Lambda and stores data across DynamoDB and 
 
 ### CloudWatch Logs
 ![CloudWatch](screenshots/cloudwatch.png)
+
+### Digital GuestBook Application
+![Digital GuestBook Application](screenshots/digital-guestbook.png)
