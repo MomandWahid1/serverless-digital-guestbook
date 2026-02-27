@@ -7,7 +7,7 @@ Users submit their name, message, and optional image through a REST API endpoint
 The backend processes requests using Lambda and stores data across DynamoDB and S3 while integrating asynchronous messaging through SQS.
 
 ## Architecture
-![Architecture-Diagram](screenshots/Architecture-Diagram).png
+![Architecture-Diagram](screenshots/architecture-dagram.png)
 
 ## AWS Services Used
 - API Gateway – REST API endpoint
